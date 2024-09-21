@@ -1,0 +1,12 @@
+🚩🚩🚩
+
+
+## Daily standups
+
+
+## Büropflicht
+
+
+## Fernbüro
+
+
