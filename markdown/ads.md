@@ -1,4 +1,16 @@
-# Stellenanzeigen <!-- .element class="hidden" -->
+# Stellenanzeigen
+
+<!-- Note -->
+Also: **ihr** müsst euch überlegen, was ihr für Leute in eurem Team haben wollt.
+
+Nicht die Personalabteilung, nicht eine Recruiting-Agentur. Ihr.
+Denn: wollt ihr das nicht machen, S.S.K.M.
+
+Und am besten setzt man sich dazu hin und schreibt das auf.
+Praktischerweise kann man das, was man dann aufschreibt, gleich auch in die Form einer Stellenanzeige gießen.
+
+
+# Stellenanzeigen, Inhalt <!-- .element class="hidden" -->
 
 Was muss in eine gute Stellenanzeige?
 
@@ -19,7 +31,7 @@ Vieles davon müsst ihr auch nur einmal von null weg machen, und könnt es dann 
 
 
 <!-- .slide: data-timing="300" -->
-## Stellenanzeigen Checkliste <!-- .element class="hidden" -->
+## Stellenanzeigen, Checkliste <!-- .element class="hidden" -->
 
 <span class="fragment fade-in-then-semi-out">Worum geht's hier?</span>
 <span class="fragment fade-in-then-semi-out">Woran werde ich arbeiten?</span>

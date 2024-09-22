@@ -33,6 +33,9 @@ Das führt dann dazu, dass die Zahlenmenschen auf einmal über andere Menschen n
 
 Merkt man vor allem daran, dass man an alles irgendwelche Scores und Kennzahlen dran hängt.
 
+Merkt man übrigens auch schon am neudeutschen Begriff "Human Resources". 
+(Wer Personal "Ressourcen" nennt, muss sich gefallen lassen, selbst "Gemeinkosten" genannt zu werden.)
+
 Wenn ein intelligenter Mensch das im Bewerbungsprozess mitbekommt, dann gibt's nur 2 Möglichkeiten:
 
 * Entweder er rennt weg, und erzählt allen seinen Bekannten was bei euch in der Firma läuft.
@@ -52,10 +55,36 @@ Lest bitte nach unter Goodhartsches Gesetz, Campbellsches Gesetz, McNamara-Fehls
 
 ## Daily standups
 
+<!-- Note -->
+Ihr solltet wissen, dass Menschen die Heimarbeit, asynchrone Koordination und Verschriftlichung gewöhnt sind, die Kenntnis dieser Fähigkeiten auch von Führungskräften erwarten.
 
-## Büropflicht
+Wenn ein Unternehmen so was wie ein Daily Standup pflegt, wo jede/r nur sagt woran er oder sie gerade ist und wo es gerade hakt, dann gibt es für solche Menschen nur zwei mögliche Gründe dafür: 
+
+* funktionaler Analphabetismus bei Kolleg:innen, insbesondere die Unfähigkeit zu Schreiben, und/oder
+* funktionaler Analphabetismus bei Führungskräften, insbesondere die Unfähigkeit zu Lesen.
+
+Wenn es das bei euch gibt, dann werdet ihr eben Leute anziehen, die das wollen, und das sind dann eben nicht die, die in zeitgemäßer, asynchroner Kommunikation gut sind.
+
+S.S.K.M.
 
 
 ## Fernbüro
 
+<!-- Note -->
+Noch ein Phänomen, das gute Leute weit von euch weg treiben wird, ist das was ich "Fernbüro" nenne.
 
+Das ist ein Arbeitsumfeld, in dem alle 100% remote sind, aber niemand sich Gedanken gemacht hat, dass das eben auch 100% verteilt und asynchron bedeutet.
+Und wo man statt dessen versucht, eine Büro-Firma zu fahren, aber eben ohne Büro, dafür mit allen Blödheiten, die in Büros leider irgendwie akzeptiert werden.
+
+Kenn- und Warnzeichen für ein Fernbüro sind:
+
+* alle sind permanent in unvorbereiten Video-Meetings, deren Motivation ausschließlich aus "hast du mal einen Moment" besteht
+* Führungskräfte brauchen Infos immer *sofort,* und pingen Kolleg:innen wild im Chat an
+* wenn sich irgendwas wichtiges tut, ruft irgendein Cheffe *alle* in ein hastiges Videomeeting, statt sich hinzusetzen und eine Email zu schreiben
+* es wird toleriert, wenn Menschen in Meetings komplett unvorbereitet kommen, insbesondere die, die weiter oben in der Nahrungskette stehen
+* in Issue-Trackern (wie Jira, Taiga, Trello und dergleichen) werden Kommentare wie "ich hab jetzt nicht den ganzen Thread gelesen aber hier ist meine Meinung" toleriert
+* Führungskräfte haben dystopische Überwachungsfantasien
+
+Fernbüros sind leider während Covid-Lockdowns so was wie ein Normalfall geworden.
+
+Das entschuldigt aber nicht, dass es sie jetzt noch immer gibt.
