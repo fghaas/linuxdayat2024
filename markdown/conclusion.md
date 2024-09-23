@@ -1,4 +1,4 @@
-# Bemerkung zum Abschluss <!-- .element class="hidden" -->
+# Satisficing <!-- .element class="hidden" -->
 
 Die richtigen Leute einzustellen, ist keine Optimierungs- sondern eine Satisficing-Aufgabe.
 
@@ -16,3 +16,17 @@ Das setzt natürlich voraus, dass die Anforderungen genau definiert sind, aber d
 
 Das verkürzt den Prozess nicht nur ungemein, sondern er macht ihn auch nicht unnötig zur Wissenschaft.
 Personalgewinnung ist und bleibt dann Handwerk, das man als Führungskraft erlernen kann und muss.
+
+
+# Ausbildung <!-- .element class="hidden" -->
+
+Auch Aus- und Weiterbildung ist Führungsaufgabe.
+
+<!-- Note -->
+Wer immer nur nach Senior-Leuten sucht, der muss sich nicht wundern, wenn das Unternehmen überwiegend alt, weiß und männlich aussieht.
+
+Ihr könnt nicht nur Leute einstellen, die schon alles können, und wenn ihr das versucht, dann wundert euch bitte nicht über deren Gehaltsvorstellungen.
+
+Ihr habt eine Verantwortung und meines Erachtens auch eine Verpflichtung, Menschen auch von einer Erfahrungsstufe zur nächsten oder übernächsten zu begleiten.
+
+Und auch damit erzielst du bessere Leistungen, bessere Teamqualität, und mehr Vielfalt als mit einer Headhunting-Strategie.
