@@ -1,4 +1,4 @@
-# Stellenanzeigen
+# Stellen-Anzeigen
 
 <!-- Note -->
 Also: **ihr** müsst euch überlegen, was ihr für Leute in eurem Team haben wollt.

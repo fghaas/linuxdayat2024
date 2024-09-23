@@ -1,4 +1,4 @@
-🚩🚩🚩
+# 🚩🚩🚩
 
 <!-- Note -->
 Wenn ihr euch schon immer mal gefragt habt, was Menschen davon abhalten könnte, bei euch zu arbeiten, dann kommt jetzt was interessantes, nämlich so typische Warnzeichen, die sich für den Bewerber oft im Bewerbungsprozess zeigen.
