@@ -5,8 +5,9 @@
 body:before {
   display: inline-flex;
   content: '';
-  background-image: url(../images/qrcode.svg);
-  background-size: cover;
+  background-image: url(../images/cc_by-sa.svg);
+  background-size: contain;
+  background-repeat: no-repeat;
   height: 4em;
   width: 4em;
   position: fixed;
