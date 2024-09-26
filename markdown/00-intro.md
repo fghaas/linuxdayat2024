@@ -33,4 +33,6 @@ Und wie man mit ein paar ganz einfachen Maßnahmen zu wirklich guten Mitarbeiter
 "Selbst schuld, kein Mitleid." <!-- .element class="fragment" -->
 
 <!-- Note -->
-Für alle, denen der Ausdruck so nicht geläufig ist und die sich fragen, was der Titel bedeuten soll.
+Für alle, denen der Ausdruck so nicht geläufig ist und die sich fragen, was der Titel bedeuten soll:
+
+"S.S.K.M" ist eine in Österreich sehr geläufige Abkürzung, die "selbst schuld, kein Mitleid" bedeutet.
