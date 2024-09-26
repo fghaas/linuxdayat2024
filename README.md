@@ -11,6 +11,6 @@ Rendered slides from this presentation are at <https://fghaas.github.io/linuxday
 
 * * *
 
-Made with [Cookiecutter](https://cookiecutter.readthedocs.io/) from /home/florian/git/cookiecutter-presentation.
+Made with [Cookiecutter](https://cookiecutter.readthedocs.io/) from <https://github.com/fghaas/cookiecutter-presentation/>.
 
-License: CC-BY-SA
+License: [CC-BY-SA](LICENSE)
