@@ -1,12 +1,6 @@
 # Stellen-Anzeigen
 
 <!-- Note -->
-Also: **ihr** müsst euch überlegen, was ihr für Leute in eurem Team haben wollt.
-
-Nicht die Personalabteilung, nicht eine Recruiting-Agentur. Ihr.
-Denn: wollt ihr das nicht machen, S.S.K.M.
-
-Und am besten setzt man sich dazu hin und schreibt das auf.
 Praktischerweise kann man das, was man dann aufschreibt, gleich auch in die Form einer Stellenanzeige gießen.
 
 
@@ -78,7 +72,7 @@ Vieles davon müsst ihr auch nur einmal von null weg machen, und könnt es dann 
 ... ist eine Zahl.
 
 <!-- Note -->
-... und nicht irgendein Wischi-Waschi wie "Bezahlung nach Qualifikation", oder "gemäß Kollektivvertrag Einstufung schlagmichtot", was einer Person außerhalb Österreichs so gar nichts sagenwird.
+... und nicht irgendein Wischi-Waschi wie "Bezahlung nach Qualifikation", oder "gemäß Kollektivvertrag Einstufung schlagmichtot", was einer Person außerhalb Österreichs so gar nichts sagen wird.
 
 Ihr habt für die Stelle doch ohnehin ein Budget.
 Rechnet von der von mir aus noch einen Verhandlungsspielraum runter und schreibt die Zahl rein.

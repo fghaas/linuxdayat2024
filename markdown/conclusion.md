@@ -12,7 +12,7 @@ Hier muss tatsächlich, von Gesetzes wegen, für eine offene Stelle die bestgeei
 In den allermeisten sonstigen Fällen ist Stellenbesetzung aber viel näher an einer [Satisficing](https://de.wikipedia.org/wiki/Satisficing)-Aufgabe: in diesem Fall wählt man für eine Entscheidung die *erste* Option, welche die Entscheidungskriterien erfüllt. 
 Also, im Extremfall, den ersten Bewerber oder die Bewerberin, der/die die definierten Anforderungen erfüllt.
 
-Das setzt natürlich voraus, dass die Anforderungen genau definiert sind, aber das haben wir ohne schon zu Beginn als Eröffnungsbedingung definiert (ihr erinnert euch an das Detail, das ich bei Stellenbeschreibungen einfordere).
+Das setzt natürlich voraus, dass die Anforderungen genau definiert sind, aber das haben wir ohnehin schon zu Beginn als Eröffnungsbedingung definiert (ihr erinnert euch an das Detail, das ich bei Stellenbeschreibungen einfordere).
 
 Das verkürzt den Prozess nicht nur ungemein, sondern er macht ihn auch nicht unnötig zur Wissenschaft.
 Personalgewinnung ist und bleibt dann Handwerk, das man als Führungskraft erlernen kann und muss.

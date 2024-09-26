@@ -19,5 +19,3 @@ Wenn ihr lichtsensibel oder migräneanfällig seid und daher nicht auf die helle
 
 <!-- Note -->
 Und falls ihr eine Hörbeeinträchtigung haben solltet, dann macht den Link bitte auf eurem Laptop auf und klickt auf "s", da kriegt ihr mich dann mit Transkript, also quasi mit Untertiteln.
-
-Die Bildquellen zu den von mir verwendeten Bildern, sofern es nicht meine eigenen sind, findet ihr da auch.
