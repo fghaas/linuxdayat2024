@@ -1,6 +1,6 @@
 # Recruiting (Definition) <!-- .element class="hidden" -->
 
-<span class="fragment fade-in-then-semi-out">Recruiting</span>
+<span class="fragment fade-in">Recruiting</span>
 <span class="fragment fade-in-then-semi-out">ist die Anwerbung von Mitarbeiter:innen durch eine Person,</span>
 <span class="fragment fade-in-then-semi-out">die weder direkt noch indirekt Führungskraft der Angeworbenen ist.</span>
 
