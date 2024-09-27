@@ -30,3 +30,6 @@ Ihr könnt nicht nur Leute einstellen, die schon alles können, und wenn ihr das
 Ihr habt eine Verantwortung und meines Erachtens auch eine Verpflichtung, Menschen auch von einer Erfahrungsstufe zur nächsten oder übernächsten zu begleiten.
 
 Und auch damit erzielst du bessere Leistungen, bessere Teamqualität, und mehr Vielfalt als mit einer Headhunting-Strategie.
+
+
+* * *
