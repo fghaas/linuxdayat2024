@@ -3,22 +3,10 @@
    "white" theme.
 */
 body {
-    &:before {
-	display: inline-flex;
-	content: '';
-	background-image: url(../images/cc_by-sa.svg);
-	background-size: contain;
-	background-repeat: no-repeat;
-	height: 4em;
-	width: 4em;
-	position: fixed;
-	top: 1em;
-	left: 1em;
-    }
     &:after {
 	content: '@xahteiwi@mastodon.social';
 	opacity: 0.5;
-	font-size: 100%;
+	font-size: 150%;
 	font-family: sans-serif;
 	position: fixed;
 	bottom: 1em;
