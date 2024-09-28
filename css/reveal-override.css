@@ -10,14 +10,14 @@ body:before {
   height: 4em;
   width: 4em;
   position: fixed;
-  top: 1em;
-  left: 1em;
+  top: 2em;
+  left: 2em;
 }
 
 body:after {
   content: '@xahteiwi@mastodon.social';
   opacity: 0.5;
-  font-size: 100%;
+  font-size: 150%;
   font-family: sans-serif;
   position: fixed;
   bottom: 1em;
