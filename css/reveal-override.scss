@@ -3,17 +3,6 @@
    "white" theme.
 */
 body {
-    &:before {
-	display: inline-flex;
-	content: '';
-	background-image: url(../images/qrcode.svg);
-	background-size: cover;
-	height: 4em;
-	width: 4em;
-	position: fixed;
-	top: 2em;
-	left: 2em;
-    }
     &:after {
 	content: '@xahteiwi@mastodon.social';
 	opacity: 0.5;
