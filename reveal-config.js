@@ -7,7 +7,11 @@ Reveal.initialize({
     progress: true,
     history: true,
     center: true,
+
+    /* When enabling inline notes, automatic "scroll view" is
+     * counterproductive, so disable it. */
     showNotes: true,
+    scrollActivationWidth: null,
 
     transition: 'fade',
 
