@@ -111,7 +111,7 @@ Warum? Weil ihr sonst einen sehr talentierten Pool an möglichen Bewerber:innen 
 (Man kann und soll drüber diskutieren ob es sein muss, dass Familien- und Sorgearbeit bei uns oft einseitig und ungerecht verteilt ist.
 Aber ihr macht die Situation *nicht besser,* wenn ihr Menschen mit solchen Verpflichtungen keine brauchbare Arbeits- und Weiterentwicklungsmöglichkeiten bietet!)
 
-Wenn ihr das mutwillig macht, dann braucht ihr euch nicht zu wundern, wenn ihr lauter Männer ohne Kinder (oder ohne Interesse an ihren Kindern) da sitzen habt.
+Wenn ihr das mutwillig macht, dann braucht ihr euch nicht zu wundern, wenn ihr lauter Männer, ohne Kinder (oder ohne Interesse an ihren Kindern) da sitzen habt.
 S.S.K.M.
 
 
