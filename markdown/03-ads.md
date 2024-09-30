@@ -21,7 +21,7 @@ Und egal was euch jetzt jemand mal erzählt hat, die werden von Bewerber:innen t
 Und: eine vernünftige Stellenanzeige zu schreiben, erspart euch im Bewerbungsprozess **viel** Arbeit.
 Also steckt da Arbeit rein, sie zahlt sich aus.
 
-Vieles davon müsst ihr auch nur einmal von null weg machen, und könnt es dann bei jeder weiteren Bewerbung wieder verwenden.
+Vieles davon müsst ihr auch nur einmal von null weg machen, und könnt es dann bei jeder weiteren Stellenausschreibung wieder verwenden.
 
 
 <!-- .slide: data-timing="300" -->
@@ -75,11 +75,11 @@ Vieles davon müsst ihr auch nur einmal von null weg machen, und könnt es dann 
 ... und nicht irgendein Wischi-Waschi wie "Bezahlung nach Qualifikation", oder "gemäß Kollektivvertrag Einstufung schlagmichtot", was einer Person außerhalb Österreichs so gar nichts sagen wird.
 
 Ihr habt für die Stelle doch ohnehin ein Budget.
-Rechnet von der von mir aus noch einen Verhandlungsspielraum runter und schreibt die Zahl rein.
+Rechnet von dem Betrag von mir aus noch einen Verhandlungsspielraum runter, und schreibt die Zahl rein.
 
 Ihr erspart euch *und euren Bewerber:innen* potenziell eine ganze Menge Kopfschmerzen.
 
-Es gibt nichts dümmeres, als jemanden durch 3 Interviews zu tragen, nur um ihm/ihr dann kein Gehalt anbieten zu können, das auch nur irgendwie zur Lebenssituation dieser Person passt.
+Es gibt nichts dümmeres, als jemanden durch 3 Interviews zu tragen, zum Schluss zu kommen, dass er/sie für die Stelle perfekt wäre, nur um ihm/ihr dann kein Gehalt anbieten zu können, das auch nur irgendwie zur Lebenssituation dieser Person passt.
 
 Das ist für diese Person, *und für euch,* nichts als vergeudete Zeit und reiner Frust.
 
@@ -107,9 +107,12 @@ Es kann natürlich auch sein, dass ihr eine komplett verteilte Organisation seid
 
 Ich würde euch dringend empfehlen, zumindest eine 100% remote-Option zu haben.
 
-Warum? Weil ihr sonst einen sehr talentierten Pool an möglichen Bewerber:innen (*vor allem Bewerberinnen*) aussperrt, nämlich alle die, die irgendwelche familiären Verpflichtungen haben.
+Warum? Weil ihr sonst einen sehr talentierten Pool an möglichen Bewerber:innen aussperrt, nämlich alle die, die irgendwelche familiären Verpflichtungen haben.
+(Man kann und soll drüber diskutieren ob es sein muss, dass Familien- und Sorgearbeit bei uns oft einseitig und ungerecht verteilt ist.
+Aber ihr macht die Situation *nicht besser,* wenn ihr Menschen mit solchen Verpflichtungen keine brauchbare Arbeits- und Weiterentwicklungsmöglichkeiten bietet!)
 
 Wenn ihr das mutwillig macht, dann braucht ihr euch nicht zu wundern, wenn ihr lauter Männer ohne Kinder (oder ohne Interesse an ihren Kindern) da sitzen habt.
+S.S.K.M.
 
 
 ## Fristen

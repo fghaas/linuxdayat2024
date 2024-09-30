@@ -48,9 +48,9 @@ Finanzmenschen scheinen eins zu vergessen: was Menschen in der IT machen, ist le
 
 (Wir haben Sand beigebracht, zu denken.)
 
-Und das gilt immer auch für kaputte Zahlensysteme.
+Und das gilt immer auch für kaputte Kennzahlensysteme.
 
-Lest bitte nach unter Goodhartsches Gesetz, Campbellsches Gesetz, McNamara-Fehlschluss.
+Beschäftigt euch bitte mit so Dingen wie [Goodhartsches Gesetz, Campbellsches Gesetz, McNamara-Fehlschluss](https://xahteiwi.eu/blog/2021/11/14/meaningless-metrics-treacherous-targets/).
 
 
 ## Daily standups
@@ -63,9 +63,7 @@ Wenn ein Unternehmen so was wie ein Daily Standup pflegt, wo jede/r nur sagt wor
 * funktionaler Analphabetismus bei Kolleg:innen, insbesondere die Unfähigkeit zu Schreiben, und/oder
 * funktionaler Analphabetismus bei Führungskräften, insbesondere die Unfähigkeit zu Lesen.
 
-Wenn es das bei euch gibt, dann werdet ihr eben Leute anziehen, die das wollen, und das sind dann eben nicht die, die in zeitgemäßer, asynchroner Kommunikation gut sind.
-
-S.S.K.M.
+Wenn es das bei euch gibt, dann werdet ihr eben Leute anziehen, die das wollen, und das sind dann eben nicht die, die in zeitgemäßer, asynchroner Kommunikation gut sind: S.S.K.M.
 
 
 ## Fernbüro
@@ -88,3 +86,5 @@ Kenn- und Warnzeichen für ein Fernbüro sind:
 Fernbüros sind leider während Covid-Lockdowns so was wie ein Normalfall geworden.
 
 Das entschuldigt aber nicht, dass es sie jetzt noch immer gibt.
+
+Und wenn ihr wirklich ein Fernbüro betreiben und damit gute Leute abschrecken wollt: S.S.K.M.
