@@ -29,7 +29,7 @@ Aber die allerschlechteste vorstellbare Antwort war die, die ich bekommen hab: "
 <!-- Note -->
 Es gibt einen meiner Ansicht nach sehr unguten Trend in vielen Organisationen, nämlich dass Menschen nicht selten seitlich von der Finanz- in die Personalschiene wechseln.
 
-Das führt dann dazu, dass die Zahlenmenschen auf einmal über andere Menschen nachdenken müssen --- und die werden dann recht rasch auch bloß zu Zahlen.
+Das führt dann dazu, dass die Zahlenmenschen auf einmal über andere Menschen nachdenken müssen — und die werden dann recht rasch auch bloß zu Zahlen.
 
 Merkt man vor allem daran, dass man an alles irgendwelche Scores und Kennzahlen dran hängt.
 
